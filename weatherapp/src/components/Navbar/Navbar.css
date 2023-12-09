@@ -31,3 +31,8 @@ a:focus {
 a:hover, a:active { 
     text-decoration: none; color: rgb(218, 240, 255);
 }
+
+img {
+    width: 400px; 
+    height: auto;
+  }
