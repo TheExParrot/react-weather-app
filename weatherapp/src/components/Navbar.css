@@ -1,0 +1,33 @@
+header {
+    background: #00588b8a;
+}
+
+header .container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header a {
+    color: rgb(218, 240, 255);
+    text-decoration: none;
+}
+
+header a:visited { 
+    text-decoration: none; color: rgb(255, 255, 255);
+}
+
+a:hover { 
+    text-decoration: none; color: rgb(218, 240, 255);
+}
+
+a:focus { 
+    text-decoration: none; color: rgb(218, 240, 255);
+}
+
+a:hover, a:active { 
+    text-decoration: none; color: rgb(218, 240, 255);
+}
